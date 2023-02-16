@@ -19,7 +19,7 @@ Follow the requirements:
 - Pay more attention to the functionality itself rather than the data scheme.
 To get bonus points you can provide implemented test cases using tools of your choice. It’s not mandatory and can be skipped with no consequences.
 ### 3. Questions
-Answer following questions:-
+Answer following questions:
 - What are requirements and where to find them?
 - What’s the difference between build and release?
 - How can QA Engineers affect quality?
